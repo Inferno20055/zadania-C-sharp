@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\Dd\Dd\bin\Debug\net8.0\Dd.exe
+C:\Users\Aлексей\source\repos\Dd\Dd\bin\Debug\net8.0\Dd.deps.json
+C:\Users\Aлексей\source\repos\Dd\Dd\bin\Debug\net8.0\Dd.runtimeconfig.json
+C:\Users\Aлексей\source\repos\Dd\Dd\bin\Debug\net8.0\Dd.dll
+C:\Users\Aлексей\source\repos\Dd\Dd\bin\Debug\net8.0\Dd.pdb
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.dll
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\refint\Dd.dll
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.pdb
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\Dd.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\Dd\Dd\obj\Debug\net8.0\ref\Dd.dll
