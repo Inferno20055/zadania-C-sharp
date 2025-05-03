@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\bin\Debug\net8.0\5Zadanei.exe
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\bin\Debug\net8.0\5Zadanei.deps.json
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\bin\Debug\net8.0\5Zadanei.runtimeconfig.json
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\bin\Debug\net8.0\5Zadanei.dll
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\bin\Debug\net8.0\5Zadanei.pdb
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.dll
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\refint\5Zadanei.dll
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.pdb
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\5Zadanei.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\5Zadanei\5Zadanei\obj\Debug\net8.0\ref\5Zadanei.dll
