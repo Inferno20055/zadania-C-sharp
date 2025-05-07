@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arrays_and_strings/1.0.0": {
+        "runtime": {
+          "arrays_and_strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arrays_and_strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

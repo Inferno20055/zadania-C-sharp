@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\bin\Debug\net8.0\arrays_and_strings.exe
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\bin\Debug\net8.0\arrays_and_strings.deps.json
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\bin\Debug\net8.0\arrays_and_strings.runtimeconfig.json
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\bin\Debug\net8.0\arrays_and_strings.dll
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\bin\Debug\net8.0\arrays_and_strings.pdb
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.dll
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\refint\arrays_and_strings.dll
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.pdb
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\arrays_and_strings.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\arrays_and_strings\arrays_and_strings\obj\Debug\net8.0\ref\arrays_and_strings.dll
