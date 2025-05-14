@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Data;
 using System.Globalization;
-
+//на это можете не обращать внимание это былоподключенно во время пары
 class Program
 {
     //zadanie 1
