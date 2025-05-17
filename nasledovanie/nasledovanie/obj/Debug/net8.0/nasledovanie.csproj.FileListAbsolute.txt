@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\bin\Debug\net8.0\nasledovanie.exe
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\bin\Debug\net8.0\nasledovanie.deps.json
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\bin\Debug\net8.0\nasledovanie.runtimeconfig.json
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\bin\Debug\net8.0\nasledovanie.dll
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\bin\Debug\net8.0\nasledovanie.pdb
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.dll
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\refint\nasledovanie.dll
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.pdb
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\nasledovanie.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\nasledovanie\nasledovanie\obj\Debug\net8.0\ref\nasledovanie.dll
