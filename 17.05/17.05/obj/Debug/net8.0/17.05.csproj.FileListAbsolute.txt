@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\17.05\17.05\bin\Debug\net8.0\17.05.exe
+C:\Users\Aлексей\source\repos\17.05\17.05\bin\Debug\net8.0\17.05.deps.json
+C:\Users\Aлексей\source\repos\17.05\17.05\bin\Debug\net8.0\17.05.runtimeconfig.json
+C:\Users\Aлексей\source\repos\17.05\17.05\bin\Debug\net8.0\17.05.dll
+C:\Users\Aлексей\source\repos\17.05\17.05\bin\Debug\net8.0\17.05.pdb
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.dll
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\refint\17.05.dll
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.pdb
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\17.05.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\17.05\17.05\obj\Debug\net8.0\ref\17.05.dll
