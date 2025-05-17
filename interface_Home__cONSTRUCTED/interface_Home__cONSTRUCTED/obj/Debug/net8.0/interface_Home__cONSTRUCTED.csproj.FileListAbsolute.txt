@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\bin\Debug\net8.0\interface_Home__cONSTRUCTED.exe
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\bin\Debug\net8.0\interface_Home__cONSTRUCTED.deps.json
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\bin\Debug\net8.0\interface_Home__cONSTRUCTED.runtimeconfig.json
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\bin\Debug\net8.0\interface_Home__cONSTRUCTED.dll
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\bin\Debug\net8.0\interface_Home__cONSTRUCTED.pdb
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.dll
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\refint\interface_Home__cONSTRUCTED.dll
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.pdb
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\interface_Home__cONSTRUCTED.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\interface_Home__cONSTRUCTED\interface_Home__cONSTRUCTED\obj\Debug\net8.0\ref\interface_Home__cONSTRUCTED.dll

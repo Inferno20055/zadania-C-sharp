@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "interface_Home__cONSTRUCTED/1.0.0": {
+        "runtime": {
+          "interface_Home__cONSTRUCTED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "interface_Home__cONSTRUCTED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
