@@ -1,6 +1,6 @@
 import pygame
 from abc import ABC, abstractmethod
-
+#ИСБ просто название несвязанное с проектом 
 # Настройки окна
 WIDTH = 800
 HEIGHT = 600
