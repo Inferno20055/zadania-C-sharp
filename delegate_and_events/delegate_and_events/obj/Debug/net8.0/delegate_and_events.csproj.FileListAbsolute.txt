@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\bin\Debug\net8.0\delegate_and_events.exe
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\bin\Debug\net8.0\delegate_and_events.deps.json
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\bin\Debug\net8.0\delegate_and_events.runtimeconfig.json
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\bin\Debug\net8.0\delegate_and_events.dll
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\bin\Debug\net8.0\delegate_and_events.pdb
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.dll
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\refint\delegate_and_events.dll
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.pdb
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\delegate_and_events.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\delegate_and_events\delegate_and_events\obj\Debug\net8.0\ref\delegate_and_events.dll
