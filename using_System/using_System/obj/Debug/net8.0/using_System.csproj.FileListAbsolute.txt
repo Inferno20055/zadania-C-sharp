@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\using_System\using_System\bin\Debug\net8.0\using_System.exe
+C:\Users\Aлексей\source\repos\using_System\using_System\bin\Debug\net8.0\using_System.deps.json
+C:\Users\Aлексей\source\repos\using_System\using_System\bin\Debug\net8.0\using_System.runtimeconfig.json
+C:\Users\Aлексей\source\repos\using_System\using_System\bin\Debug\net8.0\using_System.dll
+C:\Users\Aлексей\source\repos\using_System\using_System\bin\Debug\net8.0\using_System.pdb
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.dll
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\refint\using_System.dll
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.pdb
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\using_System.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\using_System\using_System\obj\Debug\net8.0\ref\using_System.dll
