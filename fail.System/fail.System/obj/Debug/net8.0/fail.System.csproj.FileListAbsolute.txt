@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\fail.System\fail.System\bin\Debug\net8.0\fail.System.exe
+C:\Users\Aлексей\source\repos\fail.System\fail.System\bin\Debug\net8.0\fail.System.deps.json
+C:\Users\Aлексей\source\repos\fail.System\fail.System\bin\Debug\net8.0\fail.System.runtimeconfig.json
+C:\Users\Aлексей\source\repos\fail.System\fail.System\bin\Debug\net8.0\fail.System.dll
+C:\Users\Aлексей\source\repos\fail.System\fail.System\bin\Debug\net8.0\fail.System.pdb
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.dll
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\refint\fail.System.dll
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.pdb
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\fail.System.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\fail.System\fail.System\obj\Debug\net8.0\ref\fail.System.dll
