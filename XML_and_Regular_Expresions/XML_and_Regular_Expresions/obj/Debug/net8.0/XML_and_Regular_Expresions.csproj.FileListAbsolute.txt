@@ -1,0 +1,14 @@
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.AssemblyInfoInputs.cache
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.AssemblyInfo.cs
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\bin\Debug\net8.0\XML_and_Regular_Expresions.exe
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\bin\Debug\net8.0\XML_and_Regular_Expresions.deps.json
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\bin\Debug\net8.0\XML_and_Regular_Expresions.runtimeconfig.json
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\bin\Debug\net8.0\XML_and_Regular_Expresions.dll
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\bin\Debug\net8.0\XML_and_Regular_Expresions.pdb
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.dll
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\refint\XML_and_Regular_Expresions.dll
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.pdb
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\XML_and_Regular_Expresions.genruntimeconfig.cache
+C:\Users\Aлексей\source\repos\XML_and_Regular_Expresions\XML_and_Regular_Expresions\obj\Debug\net8.0\ref\XML_and_Regular_Expresions.dll

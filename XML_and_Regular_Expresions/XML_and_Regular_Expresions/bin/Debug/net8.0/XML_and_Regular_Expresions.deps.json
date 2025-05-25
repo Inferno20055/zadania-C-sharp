@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XML_and_Regular_Expresions/1.0.0": {
+        "runtime": {
+          "XML_and_Regular_Expresions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XML_and_Regular_Expresions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
