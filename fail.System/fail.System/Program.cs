@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-using System.Text;//для обрадотки текста и строк
+using System.Text;//для обработки текста и строк
 using static System.Console;
 /*namespace Day17FileApp
 {
